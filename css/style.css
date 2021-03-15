@@ -1,0 +1,67 @@
+img[src$=jpg]{
+    text-align: center;
+    width: 512px;
+    height: 288px;
+}
+img[src$=gif]{
+    text-align: center;
+    width: 512px;
+    height: 288px;
+}
+#han{
+    text-align: center;
+    font-size: larger;
+    color: red;
+    font-style: italic;
+    border-radius: 10vh;
+}
+body {
+    background-color: thistle;
+    /* 　　color: 文字色; */
+    font-family: monospace;
+    }
+#caution{
+    text-align: center;
+    color: white;
+    font-size: medium;
+}
+#bt{
+    text-align: center;
+}
+#b1{
+    color: greenyellow;
+    background-color: gray;
+    border-radius: 10vh;
+}
+#b2{
+    color: hotpink;
+    background-color: gray;
+    border-radius: 10vh;  
+}
+#b3{
+    color: rgb(82, 188, 230);
+    background-color: gray;
+    border-radius: 10vh;
+}
+#re{
+    display: none;
+    color: whitesmoke;
+    background-color: gray;
+    border-radius: 10vh;
+}
+#top{
+    text-align: center;
+}
+#title{
+    text-align: center;
+    color: rgb(177 245 193);
+    font-size: 27px;
+    font-style: italic;
+}
+#t2{
+    text-align: center;
+    color: blanchedalmond;
+}
+#ree{
+    text-align: center;
+}
