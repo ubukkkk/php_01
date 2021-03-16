@@ -10,8 +10,8 @@ img[src$=gif]{
 }
 #han{
     text-align: center;
-    font-size: larger;
-    color: red;
+    font-size: x-large;
+    color: #fff352;
     font-style: italic;
     border-radius: 10vh;
 }
@@ -23,7 +23,12 @@ body {
 #caution{
     text-align: center;
     color: white;
-    font-size: medium;
+    font-size: larger;
+}
+#score{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: larger;
 }
 #bt{
     text-align: center;
@@ -43,8 +48,7 @@ body {
     background-color: gray;
     border-radius: 10vh;
 }
-#re{
-    display: none;
+#b4{
     color: whitesmoke;
     background-color: gray;
     border-radius: 10vh;
@@ -64,4 +68,7 @@ body {
 }
 #ree{
     text-align: center;
+}
+#mae{
+    color: #4451cb;
 }

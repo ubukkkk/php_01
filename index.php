@@ -20,10 +20,12 @@
 <div id="top">
   <img id ="r9" src="..//php_01/img/r9.jpg">
 </div>
+<br>
 
 <!-- じゃんけんボタン -->
 <form action ="jan2.php" method ="post">
 <div id="bt">
+    <p id="mae">おなまえ:<input type="text" name="name" size="20"></p><br>
     <button id="b1" value=1 button type ="submit" name ="te">グー</button>
     <button id="b2" value=2　button type ="submit" name ="te">チョキ</button>
     <button id="b3" value=3　button type ="submit" name ="te">パー</button>
