@@ -18,7 +18,7 @@
 
 <!-- 最初の画像 -->
 <div id="top">
-  <img id ="r9" src="..//php_01/img/r9.jpg">
+  <img id ="r9" src="img/r9.jpg">
 </div>
 <br>
 
