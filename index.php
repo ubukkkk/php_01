@@ -23,7 +23,7 @@
 <br>
 
 <!-- じゃんけんボタン -->
-<form action ="jan2.php" method ="post">
+<form action ="kekka.php" method ="post">
 <div id="bt">
     <p id="mae">おなまえ:<input type="text" name="name" size="20"></p><br>
     <button id="b1" value=1 button type ="submit" name ="te">グー</button>
